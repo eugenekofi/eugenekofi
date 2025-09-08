@@ -2,6 +2,11 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Eugene Kofi</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/eugene-pomevor/" target="_blank" rel="noreferrer">Eugene</a> is a passionate DevOps Engineer from Ghana, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
+<!-- Portfolio / GitHub Section -->
+<p align="center">
+  🌐 Check out my work: <a href="https://github.com/eugenekofi" target="_blank" rel="noreferrer">My GitHub Portfolio</a>
+</p>
+
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
@@ -92,6 +97,7 @@
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me: **[pomevoreugene@gmail.com](mailto:pomevoreugene@gmail.com)**
 - ⚡ Fun fact: **I like Learning New Technologies**
+
 
 
 
