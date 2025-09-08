@@ -2,12 +2,6 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Eugene Kofi</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/eugene-pomevor/" target="_blank" rel="noreferrer">Eugene</a> is a passionate DevOps Engineer from Ghana, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
-<!-- -->
-<h3 align="left"><font size="+2" face="Verdana"></font></h3>
-<p align="left">
-  <a href="https://topmate.io/YOUR-TOPMATE-USERNAME" target="_blank" rel="noreferrer"> Book a Call with me! </a>
-</p>
-
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
@@ -44,7 +38,7 @@
 
 #### Dev Stack
 <p align="left">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" alt="maven" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/vscode-icons/vscode-icons-icon.svg" alt="maven" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
@@ -97,7 +91,8 @@
 
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me: **[pomevoreugene@gmail.com](mailto:pomevoreugene@gmail.com)**
-- ⚡ Fun fact: **I like learning new technologies**
+- ⚡ Fun fact: **I like Learning New Technologies**
+
 
 
 
