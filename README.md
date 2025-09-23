@@ -17,6 +17,11 @@
 
 ---
 
+## 🎓 Education  
+- **Bachelor of Education** – University of Education, Winneba  
+
+---
+
 ## 🛠️ Tech Stack  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -61,7 +66,6 @@
 ---
 
 ![DevOps GIF](https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif)
-
 
 
 
