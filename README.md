@@ -40,7 +40,8 @@
 ## 🌟 Featured Projects  
 - [☸️ AWS Kubernetes CI/CD Deployment with GitHub Actions](https://github.com/eugenekofi/microservice-infra-3tier)  
 - [⚡ CI/CD Pipeline with GitHub Actions](https://github.com/eugenekofi/cicd-pipeline)  
-- [📦 Dockerized Node.js App](https://github.com/eugenekofi/docker-node-app)  
+- [📦 Dockerized Node.js App](https://github.com/eugenekofi/docker-node-app)
+- [🔒 Dockerized React App with DevSecOps Practices and Deployed on EC2 Self-Hosted Runner](https://github.com/eugenekofi/amazon-devsecops)
 
 ---
 
