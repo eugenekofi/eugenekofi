@@ -38,7 +38,7 @@
 ---
 
 ## 🌟 Featured Projects  
-- [🚀 Terraform AWS VPC Setup](https://github.com/eugenekofi/terraform-aws-vpc)  
+- [☸️ AWS Kubernetes CI/CD Deployment with GitHub Actions](https://github.com/eugenekofi/microservice-infra-3tier)  
 - [⚡ CI/CD Pipeline with GitHub Actions](https://github.com/eugenekofi/cicd-pipeline)  
 - [📦 Dockerized Node.js App](https://github.com/eugenekofi/docker-node-app)  
 
