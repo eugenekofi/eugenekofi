@@ -112,7 +112,6 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
         <a href="https://www.credly.com/badges/4a2c3b19-bd68-41c3-961b-465a5b2ed55e/public_url">
           <img src="./images/hashicorp-certified-terraform-associate-003.png" width="100" alt="Terraform"/>
           <br/><strong>HashiCorp Certified: Terraform Associate (003)</strong><br/>
-          <br/><strong>HashiCorp Terraform</strong><br/>Associate (003)
         </a>
       </td>
       <td align="center" width="33%">
