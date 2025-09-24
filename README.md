@@ -108,10 +108,10 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
       </td>
 
       <td align="center" width="33%">
-        <!-- Terraform badge embed -->
-        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4a2c3b19-bd68-41c3-961b-465a5b2ed55e" data-share-badge-host="https://www.credly.com"></div>
-        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-        <br/><strong>HashiCorp Terraform</strong><br/>Associate (003)
+        <a href="https://www.credly.com/badges/4a2c3b19-bd68-41c3-961b-465a5b2ed55e/public_url">
+          <img src="https://images.credly.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png" width="100" alt="Terraform"/>
+          <br/><strong>HashiCorp Terraform</strong><br/>Associate (003)
+        </a>
       </td>
 
       <td align="center" width="33%">
@@ -123,6 +123,7 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
     </tr>
   </table>
 </div>
+
 
 
 ## 💻 Tech Stack & Tools
