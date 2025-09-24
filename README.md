@@ -87,9 +87,11 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
   
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-%233835CC?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Terraform Verified](https://img.shields.io/badge/Terraform-Verified-%23404d59?style=for-the-badge&logo=terraform&logoColor=white)
   ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
 </div>
+
 
 ### 🐳 Containerization & Orchestration
 <div align="center">
@@ -242,6 +244,3 @@ Feel free to reach out for:
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
-
-
-
