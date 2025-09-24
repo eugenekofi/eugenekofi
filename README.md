@@ -51,8 +51,6 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
 ```
 
 <br clear="both">
-<!-- Certifications Section -->
-<!-- Certifications Section -->
 ## 🏆 Certifications & Achievements
 
 <div align="center">
