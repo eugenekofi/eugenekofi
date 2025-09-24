@@ -4,11 +4,11 @@
 </div>
 
 <!-- Animated Typing -->
+<!-- Animated Typing / Techy GIF -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🚀+Building+Scalable+Cloud+Infrastructure;⚡+Automating+Everything+with+IaC;🔧+Kubernetes+%2B+Docker+%2B+Terraform;☁️+AWS+Certified+Solutions+Architect;🎯+CI%2FCD+Pipeline+Specialist)](https://git.io/typing-svg)
-
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="600" alt="Techy DevOps Animation"/>
 </div>
+
 
 <!-- Social Links & Stats -->
 <div align="center">
