@@ -51,7 +51,6 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
 ```
 
 <br clear="both">
-
 <!-- Certifications Section -->
 ## 🏆 Certifications & Achievements
 
@@ -59,19 +58,19 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://www.credly.com/badges/4b1e8e9e-215f-4d6b-a027-1f2b7304ecff/public_url">
+        <a href="https://www.credly.com/badges/4b1e8e9e-215f-4d6b-a027-1f2b7304ecff/public_url" target="_blank">
           <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS SAA"/>
           <br/><strong>AWS Solutions Architect</strong><br/>Associate
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="https://www.credly.com/badges/4a2c3b19-bd68-41c3-961b-465a5b2ed55e/public_url">
-          <img src="https://images.credly.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png" width="100" alt="Terraform"/>
+        <a href="https://www.credly.com/badges/4a2c3b19-bd68-41c3-961b-465a5b2ed55e/public_url" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="100" alt="Terraform Certified"/>
           <br/><strong>HashiCorp Terraform</strong><br/>Associate (003)
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="https://www.credly.com/badges/0fb45ef8-6587-4854-b88c-5b8686cebfbb/public_url">
+        <a href="https://www.credly.com/badges/0fb45ef8-6587-4854-b88c-5b8686cebfbb/public_url" target="_blank">
           <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" alt="CKA"/>
           <br/><strong>Certified Kubernetes</strong><br/>Administrator
         </a>
@@ -79,6 +78,7 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
     </tr>
   </table>
 </div>
+
 
 ### ☁️ Cloud & Infrastructure
 <div align="center">
