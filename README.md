@@ -85,9 +85,9 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
 ### ☁️ Cloud & Infrastructure
 <div align="center">
   
-   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-  ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-%233835CC?style=for-the-badge&logo=terraform&logoColor=white)
+  ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
 </div>
 
