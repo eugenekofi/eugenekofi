@@ -80,16 +80,17 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
   </table>
 </div>
 
-## 💻 Tech Stack & Tools
-
 ### ☁️ Cloud & Infrastructure
 <div align="center">
   
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  [![Terraform](https://img.shields.io/badge/Terraform-003C59?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/certification)
+  <a href="https://www.terraform.io/certification" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="60" alt="Terraform Certified"/>
+  </a>
   ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
 </div>
+
 
 
 
