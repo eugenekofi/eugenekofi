@@ -1,14 +1,15 @@
+
 <!-- Animated Wave Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Eugene%20Kofi&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Infrastructure%20Automation&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <!-- Animated Typing -->
-<!-- Animated Typing / Techy GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="600" alt="Techy DevOps Animation"/>
-</div>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🚀+Building+Scalable+Cloud+Infrastructure;⚡+Automating+Everything+with+IaC;🔧+Kubernetes+%2B+Docker+%2B+Terraform;☁️+AWS+Certified+Solutions+Architect;🎯+CI%2FCD+Pipeline+Specialist)](https://git.io/typing-svg)
 
+</div>
 
 <!-- Social Links & Stats -->
 <div align="center">
@@ -242,3 +243,4 @@ Feel free to reach out for:
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+
