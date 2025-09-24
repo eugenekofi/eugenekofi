@@ -66,8 +66,8 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
       </td>
       <td align="center" width="33%">
         <a href="https://www.credly.com/badges/4a2c3b19-bd68-41c3-961b-465a5b2ed55e/public_url">
-          <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="100" alt="Terraform"/>
-          <br/><strong>HashiCorp Terraform</strong><br/>Associate
+          <img src="https://images.credly.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png" width="100" alt="Terraform"/>
+          <br/><strong>HashiCorp Terraform</strong><br/>Associate (003)
         </a>
       </td>
       <td align="center" width="33%">
@@ -242,8 +242,6 @@ Feel free to reach out for:
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
-
-
 
 
 
