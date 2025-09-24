@@ -66,13 +66,13 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
       </td>
       <td align="center" width="33%">
         <a href="https://www.credly.com/badges/4a2c3b19-bd68-41c3-961b-465a5b2ed55e/public_url">
-          <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="100" alt="Terraform"/>
+          <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="100" alt="Terraform"/>
           <br/><strong>HashiCorp Terraform</strong><br/>Associate
         </a>
       </td>
       <td align="center" width="33%">
         <a href="https://www.credly.com/badges/0fb45ef8-6587-4854-b88c-5b8686cebfbb/public_url">
-          <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/image.png" width="100" alt="CKA"/>
+          <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" alt="CKA"/>
           <br/><strong>Certified Kubernetes</strong><br/>Administrator
         </a>
       </td>
@@ -242,7 +242,6 @@ Feel free to reach out for:
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
-
 
 
 
