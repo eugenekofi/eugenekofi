@@ -51,7 +51,6 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
 ```
 
 <br clear="both">
-<!-- Certifications Section -->
 ## 🏆 Certifications & Achievements
 
 <div align="center">
@@ -59,7 +58,7 @@ seeking: Global DevOps/Cloud opportunities with relocation support 🚀
     <tr>
       <td align="center" width="33%">
         <a href="https://www.credly.com/badges/4b1e8e9e-215f-4d6b-a027-1f2b7304ecff/public_url">
-          <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Solutions Architect"/>
+          <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS SAA"/>
           <br/><strong>AWS Solutions Architect</strong><br/>Associate
         </a>
       </td>
