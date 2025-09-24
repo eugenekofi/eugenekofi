@@ -30,7 +30,7 @@
 ```yaml
 name: Eugene Kofi
 role: DevOps Engineer
-location: Accra, Ghana 🌍
+location: Ghana 🌍
 
 education:
   - degree: Bachelor of Education
