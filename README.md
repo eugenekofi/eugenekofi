@@ -27,36 +27,69 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 ```yaml
 name: Eugene Kofi
 role: DevOps Engineer
 location: Accra, Ghana 🌍
+
 education:
   - degree: Bachelor of Education
     university: University of Education, Winneba
+
 current_focus:
   - Building scalable cloud infrastructures
   - Implementing DevSecOps best practices
   - Containerization & Orchestration
   - Infrastructure as Code (IaC)
+
 professional_experience:
-  - Streamlined CI/CD pipelines for Java-based microservices using Gradle, achieving a 20% reduction in build and deployment times
-  - Containerized microservices architecture applications across three development teams using Docker, implementing best practices for image management
-  - Pioneered Kubernetes adoption, improving operational efficiency and reducing infrastructure costs by 20%
-  - Designed and implemented Infrastructure as Code (IaC) for AWS-hosted microservices and Kubernetes clusters using Terraform, ensuring reproducibility and version control
-  - Extensive experience with AWS services including VPC, Load Balancers (ALB/NLB), EC2, IAM, S3, and Route 53 for scalable and secure deployments
-  - Introduced Git version control best practices, improving code collaboration, branching strategies, and webhook automation for multiple development teams
-  - Led onboarding sessions and proof-of-concept workshops to train junior DevOps engineers and developers in Kubernetes and cloud automation
-  - Conducted knowledge-sharing sessions on CI/CD pipelines, automation, and DevOps workflows, empowering teams to manage their own deployments
-  - Resolved critical production incidents, ensuring high system availability and minimizing business impact
-  - Commended for troubleshooting AWS VPC peering issues and implementing secure networking solutions for development environments
-  - Managed Route 53 hosted zones and ALB integration for custom domains in Kubernetes clusters
-  - Implemented Kubernetes Ingress controllers to route traffic efficiently for multiple microservices
-  - Configured Terraform remote backend with state locking using AWS S3, enabling multiple teams to safely manage infrastructure
-  - Hands-on experience with Terraform remote state management, supporting concurrent development teams and promoting infrastructure consistency
+  - Streamlined CI/CD pipelines for Java-based microservices using Gradle,
+    achieving a 20% reduction in build and deployment times.
+
+  - Containerized microservices architecture applications across three 
+    development teams using Docker, implementing best practices for image management.
+
+  - Pioneered Kubernetes adoption, improving operational efficiency and 
+    reducing infrastructure costs by 20%.
+
+  - Designed and implemented Infrastructure as Code (IaC) for AWS-hosted 
+    microservices and Kubernetes clusters using Terraform, ensuring reproducibility 
+    and version control.
+
+  - Extensive experience with AWS services including VPC, Load Balancers (ALB/NLB), 
+    EC2, IAM, S3, and Route 53 for scalable and secure deployments.
+
+  - Introduced Git version control best practices, improving code collaboration, 
+    branching strategies, and webhook automation for multiple development teams.
+
+  - Led onboarding sessions and proof-of-concept workshops to train junior 
+    DevOps engineers and developers in Kubernetes and cloud automation.
+
+  - Conducted knowledge-sharing sessions on CI/CD pipelines, automation, and 
+    DevOps workflows, empowering teams to manage their own deployments.
+
+  - Resolved critical production incidents, ensuring high system availability 
+    and minimizing business impact.
+
+  - Commended for troubleshooting AWS VPC peering issues and implementing 
+    secure networking solutions for development environments.
+
+  - Managed Route 53 hosted zones and ALB integration for custom domains 
+    in Kubernetes clusters.
+
+  - Implemented Kubernetes Ingress controllers to route traffic efficiently 
+    for multiple microservices.
+
+  - Configured Terraform remote backend with state locking using AWS S3, 
+    enabling multiple teams to safely manage infrastructure.
+
+  - Hands-on experience with Terraform remote state management, supporting 
+    concurrent development teams and promoting infrastructure consistency.
+
 seeking: Global DevOps/Cloud opportunities with relocation support 🚀
+
 
 ```
 
