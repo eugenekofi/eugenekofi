@@ -43,48 +43,35 @@ current_focus:
   - Infrastructure as Code (IaC)
 
 professional_experience:
-  - Streamlined CI/CD pipelines for Java-based microservices using Gradle,
-    achieving a 20% reduction in build and deployment times.
+ Engineered automated CI/CD pipelines using GitHub Actions, Jenkins, Docker, and ArgoCD across 20+ microservices, reducing deployment time by 25% (60→45 mins) while achieving zero-downtime releases for 5,000+ users.
 
-  - Containerized microservices architecture applications across three 
-    development teams using Docker, implementing best practices for image management.
 
-  - Pioneered Kubernetes adoption, improving operational efficiency and 
-    reducing infrastructure costs by 20%.
 
-  - Designed and implemented Infrastructure as Code (IaC) for AWS-hosted 
-    microservices and Kubernetes clusters using Terraform, ensuring reproducibility 
-    and version control.
+Architected Infrastructure-as-Code using Terraform and CloudFormation across AWS (EC2, RDS, S3, VPC), reducing provisioning time from 3 days to 2 hours (94% reduction) while eliminating manual configuration errors.
 
-  - Extensive experience with AWS services including VPC, Load Balancers (ALB/NLB), 
-    EC2, IAM, S3, and Route 53 for scalable and secure deployments.
 
-  - Introduced Git version control best practices, improving code collaboration, 
-    branching strategies, and webhook automation for multiple development teams.
 
-  - Led onboarding sessions and proof-of-concept workshops to train junior 
-    DevOps engineers and developers in Kubernetes and cloud automation.
+Orchestrated Kubernetes clusters for 20+ containerized microservices, enabling rapid scaling, zero-downtime deployments, and self-service capabilities for product and engineering teams.
 
-  - Conducted knowledge-sharing sessions on CI/CD pipelines, automation, and 
-    DevOps workflows, empowering teams to manage their own deployments.
 
-  - Resolved critical production incidents, ensuring high system availability 
-    and minimizing business impact.
 
-  - Commended for troubleshooting AWS VPC peering issues and implementing 
-    secure networking solutions for development environments.
+Implemented comprehensive observability stack with Prometheus, Grafana, and ELK (Elasticsearch, Logstash, Kibana), reducing mean time to recovery (MTTR) from 45 minutes to 8 minutes (82% improvement) through proactive alerting and dashboards.
 
-  - Managed Route 53 hosted zones and ALB integration for custom domains 
-    in Kubernetes clusters.
 
-  - Implemented Kubernetes Ingress controllers to route traffic efficiently 
-    for multiple microservices.
 
-  - Configured Terraform remote backend with state locking using AWS S3, 
-    enabling multiple teams to safely manage infrastructure.
+Integrated security scanning into CI/CD with SonarQube, Trivy, and Snyk, catching 50+ critical vulnerabilities and reducing production security incidents from 8 to 0 per quarter.
 
-  - Hands-on experience with Terraform remote state management, supporting 
-    concurrent development teams and promoting infrastructure consistency.
+
+
+Resolved critical production Kubernetes outage in under 15 minutes using kubectl diagnostics and container debugging, preventing service disruption to 5,000+ users and maintaining 99.9% uptime SLA.
+
+
+
+Developed reusable Terraform modules with S3 remote state management and native locking, adopted across 2 engineering teams and standardizing infrastructure deployment patterns for 20+ microservices.
+
+
+
+Mentored 2 junior DevOps engineers on IAM security, CI/CD hardening, and vulnerability remediation practices.
 
 seeking: Global DevOps/Cloud opportunities with relocation support 🚀
 
