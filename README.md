@@ -43,36 +43,23 @@ current_focus:
   - Infrastructure as Code (IaC)
 
 professional_experience:
- Engineered automated CI/CD pipelines using GitHub Actions, Jenkins, Docker, and ArgoCD across 20+ microservices, reducing deployment time by 25% (60→45 mins) while achieving zero-downtime releases for 5,000+ users.
+Accelerated Provisioning: Automated infrastructure provisioning via Terraform, reducing environment setup time from days to under 2 hours.
 
+Increased Reliability: Rebuilt CI/CD (ArgoCD, GitHub Actions) with automated rollbacks and health checks, eliminating deployment-related production outages.
 
+Rapid Incident Resolution: Resolved a critical Kubernetes outage in 15 minutes using diagnostic tooling, implementing monitoring to prevent recurrence.
 
-Architected Infrastructure-as-Code using Terraform and CloudFormation across AWS (EC2, RDS, S3, VPC), reducing provisioning time from 3 days to 2 hours (94% reduction) while eliminating manual configuration errors.
+Enforced Security: Integrated SonarQube/Snyk into CI/CD, shifting security left and achieving zero production security incidents.
 
+Improved Observability: Deployed Prometheus, Grafana, and ELK Stack, cutting Root Cause Analysis time from 45 minutes to minutes.
 
+Enabled Autoscaling: Engineered Kubernetes self-healing and autoscaling, ensuring dynamic infrastructure capacity without manual intervention.
 
-Orchestrated Kubernetes clusters for 20+ containerized microservices, enabling rapid scaling, zero-downtime deployments, and self-service capabilities for product and engineering teams.
+Reduced Cloud Costs: Implemented resource governance and rightsizing, achieving an 18% reduction in monthly AWS expenses.
 
+Standardized Infrastructure: Developed and enforced reusable Terraform modules to ensure standardized security and networking across engineering teams.
 
-
-Implemented comprehensive observability stack with Prometheus, Grafana, and ELK (Elasticsearch, Logstash, Kibana), reducing mean time to recovery (MTTR) from 45 minutes to 8 minutes (82% improvement) through proactive alerting and dashboards.
-
-
-
-Integrated security scanning into CI/CD with SonarQube, Trivy, and Snyk, catching 50+ critical vulnerabilities and reducing production security incidents from 8 to 0 per quarter.
-
-
-
-Resolved critical production Kubernetes outage in under 15 minutes using kubectl diagnostics and container debugging, preventing service disruption to 5,000+ users and maintaining 99.9% uptime SLA.
-
-
-
-Developed reusable Terraform modules with S3 remote state management and native locking, adopted across 2 engineering teams and standardizing infrastructure deployment patterns for 20+ microservices.
-
-
-
-Mentored 2 junior DevOps engineers on IAM security, CI/CD hardening, and vulnerability remediation practices.
-
+Mentored Talent: Mentored two junior engineers, enabling them to independently handle Kubernetes deployments and production troubleshooting.
 seeking: Global DevOps/Cloud opportunities with relocation support 🚀
 
 
